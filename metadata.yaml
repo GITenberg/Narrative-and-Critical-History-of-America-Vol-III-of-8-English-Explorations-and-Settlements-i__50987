@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Narrative and Critical History of America, Vol. III (of 8)
 
   English Explorations and Settlements in North America 1497-1689'
